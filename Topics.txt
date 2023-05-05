@@ -1,0 +1,12 @@
+Linear Regression - done
+Decision Tree 
+Random Forest
+Support Vector Machine(SVM)
+K-Nearest Neighbours(KNN)
+Natural Language Processing(NLP)
+
+
+Neural Networks
+Deep Neural Networks
+Convolutional Neural Networks
+
